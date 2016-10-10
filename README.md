@@ -14,8 +14,7 @@ This is a code repository for the course Spring MVC: Designing Real-World Web Ap
 
 ##Notes
 List of modules and chapters where there is no code file:
-
-###Module 3:
+Module 3:
 Chapter 8: No code
 Chapter 9: No code
 
